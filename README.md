@@ -1,3 +1,5 @@
+Wolfie game
+=======
 This is a simple platform jumping game created in the spirit of Stony Brook University's mascot - Wolfie.
 The idea is based on a game called Icy Tower published at the end of 2001, which it self was based on a 1997 game called XJump.
 
