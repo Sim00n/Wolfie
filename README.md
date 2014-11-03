@@ -10,6 +10,10 @@ The idea is based on a game called Icy Tower published at the end of 2001, which
 * There is friction and maximum speed when moving horizontally.
 * Jumping out of the frame speeds up all the platforms and you can't jump again until the character is back in the frame.
 
+Some early screenshots:
+http://i.imgur.com/hTiqqjw.png
+http://i.imgur.com/owd2Ldg.png
+
 Important stuff
 ---------------------------------------------------
 * Stony Brook University has nothing to do with this program. It was created to honor the mascot and the spirit of the school but I as an author have no legal rights to the Wolfie mascot it's name.
